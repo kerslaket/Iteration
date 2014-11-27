@@ -1,4 +1,4 @@
 Iteration
 =========
 
-Part 3 Of As Computing
+Programs for the third unit of AS Computing
